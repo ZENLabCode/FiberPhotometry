@@ -1,7 +1,9 @@
 # Fiber Photometry GCaMP Data Analysis
 
 
-This repository contains scripts for the analysis of Fiber Photometry GCaMP data before, during, and after light pulse periods. If you have any questions or require the relevant publication to cite for this code, please contact:
+This repository contains scripts for the analysis of Fiber Photometry GCaMP data before, during, and after light pulse periods.
+
+If you have any questions or require the relevant publication to cite for this code, please contact:
 - Micaela Borsa: micaela.borsa@unibe.ch
 - Antoine Adamantidis: antoine.adamantidis@unibe.ch
 	
