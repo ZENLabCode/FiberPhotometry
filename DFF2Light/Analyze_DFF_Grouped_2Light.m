@@ -4,13 +4,13 @@
 % MB - Last update: 03/03/2021
 
 clc; clear; close all;
-addpath('C:\Photometry\MATLAB\OptoLab_v4.1\function\misc')
+addpath('C:\FiberPhotometry\functions')
 
 
 %% PARAMETERS
 %---------------
 %READ FILE LIST
-[~,~,DATA] = xlsread('C:\Photometry\Brenna_shCDK5\filelist.xlsx');
+[~,~,DATA] = xlsread('C:\FiberPhotometry\filelist.xlsx');
 %corresponding column labels (first row of DATA)
 Columns = { ... {variable name (do not change), label in xls-file}
     ... PS: - all labels must be unique (case in-sensitive)
@@ -53,7 +53,7 @@ opt.stat = 'SEM'; %'STD' or 'SEM'
 
 %SAVING OPTIONS
 saveData = false; %false for testing
-sPath = 'C:\Photometry\Brenna_shCDK5\Analysis';
+sPath = 'C:\FiberPhotometry\Analysis';
 sFile = 'DFF_Grouped'; %save filename
 
 
