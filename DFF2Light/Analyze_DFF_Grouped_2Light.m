@@ -1,7 +1,7 @@
 % Analyze_DFF_Grouped_2Light
 %-------------------------------------------------------------------------
 % Analyze mean DFF data of each animals and condition (control + exp)
-% MB - Last update: 03/03/2021
+% MB - Last update: 03/03/2021 - Matlab R2019b
 
 clc; clear; close all;
 addpath('C:\FiberPhotometry\functions')
