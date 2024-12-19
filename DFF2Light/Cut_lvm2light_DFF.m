@@ -3,7 +3,7 @@
 % Define a refererence channel (refCHA) and a the signal drop (RefStep) of the light ON
 % Calculate the DFF of the others channels
 % Crop the DFF according to before, during and after the light
-% MB - Last update: 03/03/2021
+% MB - Last update: 03/03/2021 - Matlab R2019b
 
 clc; clear; close all;
 addpath('C:\FiberPhotometry\functions')
