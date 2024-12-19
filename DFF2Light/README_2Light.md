@@ -25,4 +25,9 @@ If you have any questions or require the relevant publication to cite for this c
 The scripts are currently tailored for internal and specific use; they are not fully automated or optimized for a broader audience.
 Some adaptability is however possible in the "Parameters" section (first one) of each script.
 
+## Pubblication
+These scripts have been used for the following pubblication:
+
+Brenna Andrea, **Borsa Micaela**, Saro Gabriella, Ripperger Jürgen A, Glauser Dominique A, Yang Zhihong, **Adamantidis Antoine**, Albrecht Urs (2024) *Cyclin-dependent kinase 5 (Cdk5) activity is modulated by light and gates rapid phase shifts of the circadian clock*, eLife 13:RP97029; https://doi.org/10.7554/eLife.97029.2
+
 
