@@ -23,5 +23,6 @@ If you have any questions or require the relevant publication to cite for this c
 ## Notes
 
 The scripts are currently tailored for internal and specific use; they are not fully automated or optimized for a broader audience.
+Some adaptability is however possible in the "Parameters" section (first one) of each script.
 
 
