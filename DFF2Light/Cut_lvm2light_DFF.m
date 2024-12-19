@@ -6,13 +6,12 @@
 % MB - Last update: 03/03/2021
 
 clc; clear; close all;
-addpath('C:\Photometry\MATLAB\LabView\functions')
-addpath('C:\Photometry\MATLAB\OptoLab_v4.1\function\misc')
+addpath('C:\FiberPhotometry\functions')
 
 %% PARAMETERS
 %---------------
 %READ FILES
-rFiles = 'C:\Photometry\Brenna_shCDK5\*.lvm';
+rFiles = 'C:\FiberPhotometry\RAW\*.lvm';
 
 %SAVING OPTIONS
 saving = false;
